@@ -1,6 +1,5 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<<<<<<< HEAD
 <project xmlns="http://audacity.sourceforge.net/xml/" projname="Sounscape Project_data" version="1.3.0" audacityversion="2.1.2" sel0="148.7308179379" sel1="148.7308179379" vpos="0" h="0.0000000000" zoom="1.0240000000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 =======
 <project xmlns="http://audacity.sourceforge.net/xml/" projname="Sounscape Project_data" version="1.3.0" audacityversion="2.1.2" sel0="150.4072877578" sel1="150.4072877578" vpos="0" h="0.0000000000" zoom="3.2676482705" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
@@ -13,7 +12,6 @@
 		<tag name="compatible_brands" value="isommp42"/>
 		<tag name="minor_version" value="0"/>
 	</tags>
-<<<<<<< HEAD
 	<wavetrack name="Audio Track" channel="2" linked="0" mute="1" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
 =======
 	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
@@ -23,7 +21,6 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-<<<<<<< HEAD
 	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="93" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
 =======
 	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="1" rate="44100" gain="1.0" pan="0.0">
@@ -32,7 +29,6 @@
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="0"/>
 			<envelope numpoints="0"/>
 		</waveclip>
-<<<<<<< HEAD
 		<waveclip offset="148.73081794">
 			<sequence maxsamples="524288" sampleformat="131073" numsamples="2202760">
 				<waveblock start="0">
@@ -161,7 +157,6 @@
 					<simpleblockfile filename="e0000e39.au" len="524288" min="-0.681091" max="0.731506" rms="0.124805"/>
 				</waveblock>
 				<waveblock start="1707521">
-<<<<<<< HEAD
 					<simpleblockfile filename="e00002b5.au" len="173445" min="-0.366516" max="0.368378" rms="0.085583"/>
 				</waveblock>
 			</sequence>
@@ -241,7 +236,6 @@
 			</sequence>
 			<envelope numpoints="6">
 				<controlpoint t="0.342886984021" val="0.060240983963"/>
-<<<<<<< HEAD
 				<controlpoint t="19.531250000000" val="0.872093021870"/>
 				<controlpoint t="24.902343750000" val="0.895348846912"/>
 				<controlpoint t="45.898437500000" val="0.872093021870"/>
@@ -255,7 +249,6 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-<<<<<<< HEAD
 	<wavetrack name="shade4" channel="2" linked="0" mute="0" solo="0" height="101" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="64.21328798">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="32904">
@@ -282,7 +275,6 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-<<<<<<< HEAD
 	<wavetrack name="IPhone Texting" channel="0" linked="1" mute="0" solo="0" height="45" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
 =======
 	<wavetrack name="IPhone Texting" channel="0" linked="1" mute="0" solo="0" height="60" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
@@ -303,7 +295,6 @@
 				<controlpoint t="7.584322219568" val="0.711267590523"/>
 			</envelope>
 		</waveclip>
-<<<<<<< HEAD
 		<waveclip offset="178.60410705">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="643931">
 				<waveblock start="0">
@@ -342,7 +333,6 @@
 				<controlpoint t="7.584322219568" val="0.711267590523"/>
 			</envelope>
 		</waveclip>
-<<<<<<< HEAD
 		<waveclip offset="178.60410705">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="643931">
 				<waveblock start="0">
@@ -388,7 +378,6 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-<<<<<<< HEAD
 	<wavetrack name="Couple Talking" channel="0" linked="1" mute="0" solo="0" height="53" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
 =======
 	<wavetrack name="Couple Talking" channel="0" linked="1" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
@@ -426,7 +415,6 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-<<<<<<< HEAD
 	<wavetrack name="Couple Talking" channel="1" linked="0" mute="0" solo="0" height="53" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
 =======
 	<wavetrack name="Couple Talking" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
@@ -464,7 +452,6 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-<<<<<<< HEAD
 	<wavetrack name="Curtis Mayfield - Pusherman" channel="0" linked="1" mute="0" solo="0" height="46" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="99.95362812">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="2151074">
@@ -498,7 +485,6 @@
 					<simpleblockfile filename="e0000d71.au" len="262144" min="-0.762464" max="0.753342" rms="0.122026"/>
 				</waveblock>
 				<waveblock start="1836658">
-<<<<<<< HEAD
 					<simpleblockfile filename="e0000c65.au" len="157208" min="-0.830337" max="0.74975" rms="0.135994"/>
 				</waveblock>
 				<waveblock start="1993866">
@@ -569,7 +555,6 @@
 					<simpleblockfile filename="e0000497.au" len="262144" min="-0.801766" max="0.803174" rms="0.145093"/>
 				</waveblock>
 				<waveblock start="1836658">
-<<<<<<< HEAD
 					<simpleblockfile filename="e000021e.au" len="157208" min="-0.821966" max="0.77677" rms="0.154506"/>
 				</waveblock>
 				<waveblock start="1993866">
@@ -623,7 +608,6 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-<<<<<<< HEAD
 	<wavetrack name="Car Honking Horn Driving By" channel="1" linked="0" mute="0" solo="0" height="48" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
 =======
 	<wavetrack name="Car Honking Horn Driving By" channel="1" linked="0" mute="0" solo="0" height="150" minimized="1" isSelected="0" rate="44100" gain="1.0" pan="0.0">
@@ -718,7 +702,6 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-<<<<<<< HEAD
 	<wavetrack name="Bus Stopping at Bus Stop" channel="2" linked="0" mute="1" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="1.0" pan="0.0">
 		<waveclip offset="0.00000000">
 			<sequence maxsamples="524288" sampleformat="131073" numsamples="4181002">
